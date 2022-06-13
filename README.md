@@ -38,6 +38,14 @@ Download Link: https://play.google.com/store/apps/details?id=com.unionsoftwareit
 <br/>
 <br/>
 
-# (5) Calculator UI
+# (5) Calculator UI (React-Native)
 ![collage](https://user-images.githubusercontent.com/83079592/172011804-aa0e2408-597d-444f-b70f-09a4ae9f7094.png)
+
+<br/>
+<br/>
+<br/>
+
+# (6) Event Finder UI
+![image (3)](https://user-images.githubusercontent.com/83079592/173364112-f0f20bf4-322c-4c9b-b5ff-4ee91f79f92d.png)
+
 
