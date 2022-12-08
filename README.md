@@ -1,4 +1,4 @@
-# Projects_List
+# Flutter Projects
 This is the collection of completed projects and ongoing projects by me. (Available on play store.)
 
 <br/>
